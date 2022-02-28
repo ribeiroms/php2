@@ -2,6 +2,7 @@
 
 echo "Hello World!";
 
-echo "adicionar mais um echo"
+echo "Teste resolvendo conflitos"
+
 
 ?>
